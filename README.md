@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm Mousam
 
-<!--
-**Mousam861/Mousam861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN | Java | ML
+🌱 Learning new things every day: Open Source, System Design, Cloud ☁️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+</div>
+
+### A Little more About Me
+
+```js
+const mousam = {
+  code: ['Java', 'MERN', 'JavaScript', 'HTML', 'CSS'],
+  askMeAbout: ['Web Dev', 'Machine Learning', 'DBMS', 'DSA'],
+  tech: {
+    backend: ['Node.js', 'Express', 'Spring Boot'],
+    frontend: ['React', 'HTML5', 'CSS3'],
+    devops: ['GitHub', 'Heroku', 'Vercel'],
+    databases: ['MongoDB', 'MySQL'],
+  },
+  currentFocus: "GATE 2026 + Job hunt",
+  funFact: "I love to debug at 2 AM 🚀"
+}
+```
+## 🌟 Github Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mousam861&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+## 🧠 DSA Grind on LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/baruimousam44?theme=dark&font=Noto%20Serif%20Balinese&ext=heatmap" alt="LeetCode Stats" width="450" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.5);" />
+</p>
+
+
+
+
+- 📫 Reach me at: mousambarui44@gmail.com
+- 🌐 Portfolio: [mousam861.github.io/Portfolio](https://mousam861.github.io/Portfolio/)
+- 📝 Blogs: [Hashnode](https://yourblog.hashnode.dev)
+- 💼 LinkedIn: [linkedin.com/in/mousambarui44](https://linkedin.com/in/mousambarui44)
+
+
+
+
