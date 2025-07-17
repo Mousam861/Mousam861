@@ -51,7 +51,9 @@ const mousam = {
 ```
 ## 🌟 Github Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mousam861&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![Mousam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousam861&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousam861&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ## 🧠 DSA Grind on LeetCode
