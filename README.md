@@ -1,8 +1,10 @@
 # Hi 👋, I'm Mousam
 
-💻 Full Stack Developer | MERN | Java | ML
-<br>
-🌱 Learning new things every day: Open Source, System Design, Cloud ☁️
+<div>
+  <img src="https://drive.google.com/uc?export=view&id=1-w5r8ct89S6G3s8z0rzd6JQcO7Y_FrsT" 
+       alt="Image from Google Drive" 
+       style="max-width: 100%; height: auto; border-radius: 12px;" />
+</div>
 
 
 ### 🔧 Tech Stack
