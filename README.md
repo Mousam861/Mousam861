@@ -55,8 +55,6 @@ const mousam = {
 <div align="center">
 
 ![Mousam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousam861&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousam861&layout=compact&theme=tokyonight&hide_border=true)
-</div>
 
 ## 🧠 DSA Grind on LeetCode
 
