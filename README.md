@@ -47,7 +47,6 @@ const mousam = {
     devops: ['GitHub', 'Heroku', 'Vercel'],
     databases: ['MongoDB', 'MySQL'],
   },
-  currentFocus: "GATE 2026 + Job hunt",
   funFact: "I love to debug at 2 AM 🚀"
 }
 ```
