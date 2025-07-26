@@ -67,7 +67,7 @@ const mousam = {
 
 - 📫 Reach me at: mousambarui44@gmail.com
 - 🌐 Portfolio: [mousam861.github.io/Portfolio](https://mousam861.github.io/Portfolio/)
-- 📝 Blogs: [Hashnode](https://yourblog.hashnode.dev)
+- 📝 Blogs: [Hashnode](https://medium.com/@baruimousam44)
 - 💼 LinkedIn: [linkedin.com/in/mousambarui44](https://linkedin.com/in/mousambarui44)
 
 
